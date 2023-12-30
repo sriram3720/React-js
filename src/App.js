@@ -2,7 +2,7 @@
 
 function App() {
   return (
-     <div>this is feat1</div>
+     <div>this is feat2</div>
   );
 }
 
