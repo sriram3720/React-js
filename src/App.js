@@ -2,7 +2,9 @@
 
 function App() {
   return (
-     <div>this is feat2</div>
+     <div>
+      <h1>welcome to fight club</h>
+     </div>
   );
 }
 
